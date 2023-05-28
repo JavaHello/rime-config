@@ -1,0 +1,43 @@
+patch:
+  style:
+    display_tray_icon: false
+    inline_preedit: true
+    horizontal: true
+    layout:
+      border: 0
+      margin_x: 12
+      margin_y: 12
+      hilite_padding: 12
+      hilite_spacing: 3
+      spacing: 10
+      candidate_spacing: 24
+      round_corner: 0
+    color_scheme: gruvbox-cyan
+  preset_color_schemes:
+    gruvbox-cyan:
+      name: gruvbox-cyan
+      author: Yilin
+      back_color: "0x454950"
+      text_color: "0xC7F1FB"
+      hilited_text_color: "0xC7F1FB"
+      hilited_candidate_text_color: "0xC7F1FB"
+      hilited_candidate_back_color: "0x888545"
+      hilited_candidate_label_color: "0xB2DBEB"
+      hilited_comment_text_color: "0xB2DBEB"
+      candidate_text_color: "0xB2DBEB"
+      label_color: "0x2FBDFA"
+      comment_text_color: "0x93AEBD"
+    gruvbox-light:
+      name: gruvbox-light
+      author: Yilin
+      back_color: "0xC7F1FB"
+      text_color: "0x36383C"
+      hilited_text_color: "0x36383C"
+      hilited_back_color: "0xB2DBEB"
+      hilited_candidate_text_color: "0xC7F1FB"
+      hilited_candidate_back_color: "0x36383C"
+      hilited_candidate_label_color: "0xB2DBEB"
+      hilited_comment_text_color: "0xA1C4D5"
+      candidate_text_color: "0x36383C"
+      label_color: "0x1476B5"
+      comment_text_color: "0x646F7C"
